@@ -1,0 +1,32 @@
+.aca__cur {
+  color: black;
+  background-color: white;
+  text-align: left;
+  border-color: white;
+  justify-content: center;
+}
+
+.aca__grade {
+  color: black;
+  font-weight: 500;
+  font-size: 3rem;
+}
+
+.aca__years {
+  color: gray;
+  font-weight: 300;
+  font-size: 2rem;
+}
+
+.aca__SR {
+  padding-bottom: 1em;
+}
+
+.gr__t1 {
+  font-size: 1.5rem;
+  color: gray;
+  font-weight: 600;
+  padding-left: 1em;
+  padding-bottom: 0.5em;
+  padding-top: 1em;
+}

@@ -1,0 +1,33 @@
+.community__table {
+  padding-bottom: 3em;
+}
+
+.src__sm {
+  display: none;
+}
+
+.src__lg {
+  display: flex;
+}
+
+@media (max-width: 576px) {
+  .src__sm {
+    display: flex;
+    justify-content: center;
+  }
+
+  .src__lg {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .src__sm {
+    display: flex;
+    justify-content: center;
+  }
+
+  .src__lg {
+    display: none;
+  }
+}

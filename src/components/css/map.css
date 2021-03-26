@@ -1,0 +1,23 @@
+.map__main {
+  padding-bottom: 8em;
+}
+
+.map__sub {
+  padding-top: 1em;
+  padding-bottom: 2em;
+}
+
+.m_subtitle {
+  font-weight: 200;
+  font-size: 3rem;
+}
+
+.m_txt2 {
+  font-weight: 300;
+}
+
+@media (max-width: 576px) {
+  .map__main {
+    padding-bottom: 2em;
+  }
+}

@@ -1,0 +1,93 @@
+.h_jumbotron {
+  padding-top: 9rem;
+}
+
+.h_title {
+  font-family: "Noto Serif KR", serif;
+  font-size: 4rem;
+  font-weight: 500;
+  color: WHITE;
+}
+
+.h_more {
+  margin-top: 3rem;
+  padding: 0.5rem 4rem 0.5rem 4rem;
+}
+
+.h_test {
+  margin-top: 5rem;
+  margin-bottom: 2rem;
+  padding-top: 9rem;
+  padding-bottom: 9rem;
+  background-color: #f4f4f4;
+}
+
+.h_intro {
+  padding: 2rem 1rem 2rem 1rem;
+  color: #7d7d7d;
+  background-color: #f0f0f0;
+}
+
+.h_youtube {
+  padding-top: 96px;
+  padding-bottom: 110px;
+}
+
+.h_subtitle {
+  font-size: 1.1rem;
+}
+
+.h_btn_test {
+  margin-top: 2rem;
+  padding: 0.5rem 4rem 0.5rem 4rem;
+}
+
+.h_stepgroup {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.step_title {
+  color: #cc2b2b;
+  font-size: 1.1em;
+}
+
+.step_subtitle {
+  padding-top: 1rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  color: #442bdb;
+  font-size: 1.1em;
+  font-weight: 600;
+}
+
+.step_text {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+@media (max-width: 992px) {
+  .main__youtube {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+}
+
+@media (max-width: 768px) {
+  .main__youtube {
+    padding-top: 48px;
+    padding-bottom: 48px;
+  }
+}
+
+@media (max-width: 576px) {
+  .main__youtube {
+    padding-top: 32px;
+    padding-bottom: 32px;
+  }
+}
+
+.h_test {
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+}
