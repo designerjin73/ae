@@ -3,6 +3,28 @@ a {
   color: black;
 }
 
+.jumbotron {
+  padding: 0rem 0rem;
+  min-height: 540px;
+  margin-bottom: 0rem;
+  background-image: url("../../../src/assets/img/img_main01.jpg");
+  background-size: cover;
+  justify-content: center;
+}
+
+@media (min-width: 576px) {
+  .jumbotron {
+    padding: 0rem 0rem;
+    min-height: 540px;
+  }
+}
+
+.jumbotron-fluid {
+  padding-right: 0;
+  padding-left: 0;
+  border-radius: 0;
+}
+
 .page__category {
   padding-top: 4em;
   padding-bottom: 1em;
