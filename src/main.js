@@ -9,8 +9,8 @@ Vue.use(BootstrapVue)
 Vue.use(IconsPlugin)
 
 // Import Bootstrap an BootstrapVue CSS files (order is important)
-import 'bootstrap/dist/css/bootstrap.css'
-import 'bootstrap-vue/dist/bootstrap-vue.css'
+import './components/css/bootstrap.css'
+import './components/css/bootstrap-vue.css'
 import './components/css/common.css'
 import './components/css/header.css'
 import './components/css/home.css'
